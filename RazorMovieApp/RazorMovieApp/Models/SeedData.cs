@@ -61,7 +61,6 @@ namespace RazorMovieApp.Models
                     context.Student.AddRange(
                     new Student
                     {
-                        StudentId = 1,
                         Name = "hung",
                         DateOfBirth = DateTime.Parse("1998-12-23"),
                         Genre = "Male",
@@ -71,7 +70,6 @@ namespace RazorMovieApp.Models
                     },
                     new Student
                     {
-                        StudentId = 2,
                         Name = "chung",
                         DateOfBirth = DateTime.Parse("1998-12-23"),
                         Genre = "Male",
@@ -81,7 +79,6 @@ namespace RazorMovieApp.Models
                     },
                     new Student
                     {
-                        StudentId = 3,
                         Name = "thanh",
                         DateOfBirth = DateTime.Parse("1998-12-23"),
                         Genre = "Male",
@@ -90,6 +87,7 @@ namespace RazorMovieApp.Models
                         Email = "thanh98@gmail.com"
                     }
                     );
+                    context.SaveChanges();
                 }
             }
         }
