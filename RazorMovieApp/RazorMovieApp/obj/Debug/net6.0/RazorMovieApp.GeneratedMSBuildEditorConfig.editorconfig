@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorMovieApp
+build_property.RootNamespace = RazorMovieApp
+build_property.ProjectDir = D:\Lucas_Dinh\back_acerV5\20232\net_2\RazorMovieApp\RazorMovieApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Lucas_Dinh\back_acerV5\20232\net_2\RazorMovieApp\RazorMovieApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lucas_Dinh/back_acerV5/20232/net_2/RazorMovieApp/RazorMovieApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fwi8zk4l7u
